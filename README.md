@@ -12,8 +12,8 @@ Befindet sich eine Privatperson beispielsweise bereits im Supermarkt und der Fah
 
 # Name des Teams und der einzelnen Teammitglieder
 Team M04 bestehend aus
-  Florian Blose
-  Fabian Heizmann
-  Jonas Fano
+  Florian Blose,
+  Fabian Heizmann,
+  Jonas Fano und
   Luis Stegbauer
   
